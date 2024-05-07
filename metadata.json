@@ -2,7 +2,7 @@
   "uuid": "usd-rub-er-gse@c0mr8.github.com",
   "name": "USD-RUB",
   "description": "That simple extension shows USD to Russian RUB exchange rate on the left center part of Gnome top panel. Exchange rate updates every 30 seconds. Compatible with Gnome 45.",
-  "version": 1,
+  "version": 1.1,
   "shell-version": ["45"],
   "url": "https://github.com/comr8/USD-RUB-ER-GSE"
 }

@@ -1,7 +1,3 @@
-// This extensions shows USD to RUB convertion on Gnome (45.x) panel.
-// Copyright (C) 2024 c0mr8
-// See LICENSE file
-
 'use strict';
 
 import St from 'gi://St'
