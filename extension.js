@@ -99,6 +99,11 @@ export default class Extension {
             panelButton.destroy();
             panelButton = null;
         }
+
+        if (panelButtonText) {
+            panelButtonText.destroy();
+            panelButtonText = null;
+        }
     
         if (sourceId) {
             GLib.Source.remove(sourceId);
