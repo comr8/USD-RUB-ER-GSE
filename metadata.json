@@ -1,8 +1,8 @@
 {
   "name": "USD to RUB viewer",
-  "description": "That simple extension shows USD to Russian RUB exchange rate on the left center part of Gnome top panel. Exchange rate updates every 30 seconds. Compatible with Gnome 45-46. This extension is using economia.awesomeapi.com.br. It is a fork of usd-try.",
+  "description": "That simple extension shows USD to Russian RUB exchange rate on the left center part of Gnome top panel. Exchange rate updates every 30 seconds. Compatible with Gnome 45-47. This extension is using economia.awesomeapi.com.br. It is a fork of usd-try.",
   "uuid": "usd-rub-er-gse@c0mr8.github.com",
-  "version": 4,
-  "shell-version": ["45", "46"],
+  "version": 5,
+  "shell-version": ["45", "46", "47"],
   "url": "https://github.com/comr8/USD-RUB-ER-GSE"
 }

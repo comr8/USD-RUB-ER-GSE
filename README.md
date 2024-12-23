@@ -1,9 +1,9 @@
 # USD to RUB Gnome top panel viewer
-That simple Gnome shell (v45-46) extension shows USD to Russian RUB exchange rate on the left center part of Gnome top panel. Exchange rate updates every 30 seconds. Compatible with Gnome 45-46.
-  
+That simple Gnome shell (v45-47) extension shows USD to Russian RUB exchange rate on the left center part of Gnome top panel. Exchange rate updates every 30 seconds. Compatible with Gnome 45-47.
+
 ## Preview
 ![](./preview.png)
-## Q&A 
+## Q&A
 | Question | Tip |
 | ------------- | ------------- |
 | How to install?  | Download via Gnome Extension Store: https://extensions.gnome.org/extension/6958/usd-to-rub-viewer/  |
